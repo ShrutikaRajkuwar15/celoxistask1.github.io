@@ -260,7 +260,7 @@ footer .info {
 footer .social img {
     margin: 15px;
     /* color: #000; */
-    color: #fff;
+    color: #fff !important;
 }
 footer h4, footer h2,
 footer p {
